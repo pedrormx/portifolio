@@ -1,0 +1,50 @@
+#imgs-port {
+    max-width: 20%;
+    border-radius: 50%;
+}
+#imgs-port {
+    color: red;
+}
+.row{
+    max-width: 60%;
+    margin-left: 28%;
+    margin-top: 2%;
+}
+.row img{
+   border-radius: 15%;
+}
+.container-principal{
+    margin-top: 100px;
+}
+#linha{
+    max-width: 70%;
+    color: greenyellow;
+}
+body{
+    background-color:white;
+}
+
+h1{color:rgb(80, 171, 255)}
+     
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+footer {
+    background-color: rgb(80, 171, 255);
+    padding: 20px;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: white;
+  }
+
+  .row{
+    margin-left: 20%;
+    margin-top: 2%;
+}
+}
